@@ -86,12 +86,13 @@ Proposed ensemble techniques and oversampling methods for further improvement.
 # How to Use
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/data-science-projects.git
+2. 
+   git@github.com:MohdShafaq/OIBSIP.git
 
-2. Navigate to the desired project folder and open the corresponding Jupyter Notebook:
+3. Navigate to the desired project folder and open the corresponding Jupyter Notebook:
    jupyter notebook <notebook_name>.ipynb
 
-3. Requirements
+4. Requirements
  
 Python 3.x
 Jupyter Notebook
@@ -109,5 +110,7 @@ Each project illustrates the end-to-end process of data analysis, modeling, and 
 Feel free to explore the notebooks, use the code for your projects, or suggest improvements!
 
 Created and Presented by: Mohd Shafaq, Aspiring Data Analyst
+
 Date: 09-12-2024
+
 Place: Aligarh, UP, India
