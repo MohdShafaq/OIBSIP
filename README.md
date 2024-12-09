@@ -2,9 +2,9 @@
 Oasis infobyte Data Analytics Internship Tasks. This repository contains three data analytics projects that demonstrate various techniques in data analysis, machine learning, and clustering. Each project is designed to explore real-world datasets and derive actionable insights.
 ![Internship Image](https://github.com/user-attachments/assets/f10396c0-b608-473d-bee8-cee309ed43f0)
 
-## Projects Overview
+# Projects Overview
 
-### 1. Exploratory Data Analysis (EDA) on Retail Sales Data
+# 1. Exploratory Data Analysis (EDA) on Retail Sales Data
 
 Scope and Objective: 
 
@@ -23,7 +23,7 @@ Explored relationships between sales figures, product types, and pricing.
 Insights: 
 The findings provide a foundation for optimizing pricing strategies and improving sales performance.
 
-### 2. Customer Segmentation Analysis
+# 2. Customer Segmentation Analysis
 
 Scope and Objective:
 
@@ -49,7 +49,7 @@ Tailored marketing strategies for each segment.
 Insights into customer preferences for better decision-making.
 
 
-### 3. Wine Quality Prediction
+# 3. Wine Quality Prediction
 
 Scope and Objective:
 
@@ -86,8 +86,7 @@ Proposed ensemble techniques and oversampling methods for further improvement.
 # How to Use
 
 1. Clone the repository:
-2. 
-   git@github.com:MohdShafaq/OIBSIP.git
+   git clone https://github.com/MohdShafaq/OIBSIP.git
 
 3. Navigate to the desired project folder and open the corresponding Jupyter Notebook:
    jupyter notebook <notebook_name>.ipynb
